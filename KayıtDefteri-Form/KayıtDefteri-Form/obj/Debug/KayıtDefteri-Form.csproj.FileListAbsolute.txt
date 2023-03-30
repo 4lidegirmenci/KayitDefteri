@@ -1,0 +1,22 @@
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.exe.config
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.exe
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.pdb
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri_Form.Form1.resources
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri_Form.Properties.Resources.resources
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.exe
+C:\Users\monster\Desktop\C# Projeler\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.pdb
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.exe.config
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.exe
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\bin\Debug\KayıtDefteri-Form.pdb
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri_Form.Form1.resources
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri_Form.Properties.Resources.resources
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.exe
+C:\Users\monster\Desktop\KayıtDefteri-Form\KayıtDefteri-Form\obj\Debug\KayıtDefteri-Form.pdb
